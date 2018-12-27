@@ -1,0 +1,2 @@
+/usr/bin/ar qc libZLTT_LIB.a  CMakeFiles/ZLTT_LIB.dir/network_card.cpp.o CMakeFiles/ZLTT_LIB.dir/Lidar.cpp.o CMakeFiles/ZLTT_LIB.dir/serial.cpp.o CMakeFiles/ZLTT_LIB.dir/info_get.cpp.o CMakeFiles/ZLTT_LIB.dir/Serial.cpp.o CMakeFiles/ZLTT_LIB.dir/toollib.cpp.o
+/usr/bin/ranlib libZLTT_LIB.a

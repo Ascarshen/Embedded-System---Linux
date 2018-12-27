@@ -1,0 +1,1 @@
+arm-none-linux-gnueabi-g++    -Wall -lpthread -std=c++0x -Wfatal-errors -O3 -DNDEBUG   CMakeFiles/ZLTT.dir/drive.cpp.o  -o ZLTT -rdynamic src/libZLTT_LIB.a 
