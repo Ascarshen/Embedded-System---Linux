@@ -1,0 +1,5 @@
+card_online  网卡上线执行文件
+
+config.conf  配置文件
+
+test_ap    热点
