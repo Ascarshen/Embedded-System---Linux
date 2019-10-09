@@ -1,9 +1,6 @@
 /*
  * drive.cpp
  *
- *  Created on: Mar 19, 2018
- *      Author: Wangcui
- *      Lidar - Q600
  */
 #include <sys/types.h>
 #include <sys/ipc.h>
